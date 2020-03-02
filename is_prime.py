@@ -1,4 +1,4 @@
-# this function to check if the given number is prime or not. 
+# this function to check if the given number is prime or not. retuns True or False accordingly. 
 def is_prime(n):
     if n % 2 == 0:
         return False
@@ -7,13 +7,3 @@ def is_prime(n):
             if n % i == 0:
                 return False
         return True
-# iterator
-number = 3
-
-# list of primes
-primes = [2]
-#print(number)
-
-
-
-
