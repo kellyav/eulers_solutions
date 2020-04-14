@@ -15,5 +15,4 @@ I also try to use as many of my own functions as possible. This includes creatin
 
 *factorial(n)*: take the factorial of the input using the factorial equation 
 
-*combination(n,r)*:
-
+*combination(n,r)*: taking a combination using the equation (n, r) = n!/ (r!(n−r)!)
