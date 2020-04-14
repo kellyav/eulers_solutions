@@ -4,7 +4,6 @@
     # {20,48,52}, {24,45,51}, {30,40,50}
 # For which value of p ≤ 1000, is the number of solutions maximised?
 
-
 initial= 0 
 solution= [initial]*1000
 for a in range(1,333):
@@ -21,5 +20,4 @@ for a in range(1,333):
 maxsolution= (solution.index(max(solution)))
 
 print('Value of p where the number of solutions maximized at is', maxsolution)
-# this is actually the position in the array [solutions] where the maximum value is
-
+# this is the position in the array [solutions] where the maximum value is (and the answer to the problem).
