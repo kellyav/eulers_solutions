@@ -9,8 +9,8 @@ I also try to use as many of my own functions as possible. This includes creatin
 3, 9, 10, 39, 47, and 50.
 
 ## Directory of my functions:
-is_prime(n): checks whether a number is prime or not. TRUE or FALSE.
+*is_prime(n)*: checks whether a number is prime or not. TRUE or FALSE.
 
-listofprimes(n): lists all the primes below an inputted number. Outputs a number. 
+*listofprimes(n)*: lists all the primes below an inputted number. Outputs a number. 
 
 
