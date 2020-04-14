@@ -13,3 +13,7 @@ I also try to use as many of my own functions as possible. This includes creatin
 
 *listofprimes(n)*: lists all the primes below an inputted number. Outputs a number. 
 
+*factorial(n)*: take the factorial of the input using the factorial equation 
+
+*combination(n,r)*:
+
