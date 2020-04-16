@@ -7,10 +7,13 @@ import time
 tStart = time.time()
 
 def factorial(x):
-    if x == 0:
+    if x<0: 
+        print("Factorial doesn't exist for negative numbers!")
+    elif x == 0:
         return 1
     else:
         return x*factorial(x-1)
+
 
 def combination(n, r):
     if n == r or r == 0: return(1) 
